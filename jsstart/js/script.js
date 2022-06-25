@@ -7,3 +7,15 @@
 // "use strict";
 
 // console.log("Я учу JS");
+
+// ========================= 3 video ========================
+
+// let colorDataBaseEye = [];
+
+// let user = "Вася";
+
+// let userName = "Вася";
+
+// console.log(user);
+
+// ========================= 4 video ========================
