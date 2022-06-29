@@ -229,3 +229,40 @@
 
 // let text = "фрилансер";
 // console.log(text.includes("лан", 4)); // false
+
+// ========================= 12 video ========================
+
+// let arr = ["Ваня", "Иштван", "Оля"];
+
+// let newArr = arr;
+
+// newArr.push("Петя");
+// console.log(arr.length); // 4
+// console.log(newArr);
+
+// let users = ["Ваня", "Иштван"];
+// users.push("Оля");
+// // console.log(users);
+// users.splice(1, 1, "Петя");
+// // console.log(users);
+// let deleteValue = users.slice(0, 1);
+// // console.log(deleteValue);
+// // console.log(users);
+// users.unshift("Маша", "Паша");
+// console.log(users);
+
+// let arr = ["Ваня", "Иштван", "Оля"];
+// let deleteItem = arr.splice(0, 1);
+// console.log(arr);
+
+// arr.unshift(deleteItem[0]);
+// console.log(arr);
+
+// let str = "Ваня, Иштван, Оля";
+
+// let newArray = str.split(",");
+// console.log(newArray);
+
+// let arr = [9, 2, 8];
+// let reduceValue = arr.reduce((a, b) => a + b); //9
+// console.log(reduceValue);
