@@ -71,3 +71,34 @@
 //     console.log(size);
 //   }
 // }
+
+// ========================= 8 video ========================
+
+// function showName() {
+//   console.log("Вася!");
+// }
+
+// setTimeout(showName, 0);
+// console.log("Коля!");
+
+// showMessage();
+// function showMessage() {
+//   console.log("Сообщение");
+// }
+
+// showMessage();
+// let showMessage = function () {
+//   console.log("Сообщение");
+// };
+
+// "use strict";
+// let showMessage;
+
+// if (2 > 1) {
+//   showMessage = function showMessage() {
+//     console.log("Сообщение");
+//   };
+// }
+// showMessage();
+
+// ========================= 9 video ========================
