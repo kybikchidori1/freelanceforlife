@@ -182,3 +182,24 @@
 // delete userInfo.name
 
 // console.log(userInfo)
+
+// ========================= 10 video ========================
+
+// let sourceNum = 1.005 + Number.EPSILON;
+// let numFour = Math.round(sourceNum * 100) / 100;
+// console.log(numFour);
+
+// let value = parseFloat("135.58px");
+
+// // parseInt(value);
+
+// console.log(value);
+
+// let value = 58 + "Freelancer";
+// if (value !==NaN) {
+//     console.log("Result of virajeniya NaN")
+// }
+
+// console.log(Math.max(10, 58, 39, -150, 0));
+
+// console.log(Math.floor(58.858));
