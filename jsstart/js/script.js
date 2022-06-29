@@ -203,3 +203,29 @@
 // console.log(Math.max(10, 58, 39, -150, 0));
 
 // console.log(Math.floor(58.858));
+
+// ========================= 11 video ========================
+
+// let fls = " freelancer";
+
+// let text = "Hello! I'am" + `${fls}`;
+// console.log(text);
+
+// let text = "freelancer";
+
+// console.log(text[6]);
+
+// let text = 123 + "456"
+
+// console.log(text) // 123456
+
+// let text = "freelancer";
+
+// console.log(text.toLocaleUpperCase());
+
+// let text = "фрилансер";
+
+// console.log(text.slice(3, 6));
+
+// let text = "фрилансер";
+// console.log(text.includes("лан", 4)); // false
