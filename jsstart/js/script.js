@@ -102,3 +102,83 @@
 // showMessage();
 
 // ========================= 9 video ========================
+
+// const userInfo = {
+//   name: "Вася",
+//   age: 30,
+// };
+
+// let userInfo = {
+//     name: "Вася",
+//     age: 30,
+//     "58": 'Значение свойства'
+// }
+
+// console.log(userInfo[58]) // Значение свойства
+
+// let userInfo = {
+//     name: 'Вася',
+//     age: 30
+// }
+
+// let user = userInfo;
+// user.age = 45;
+
+// console.log(userInfo.age) // 45
+
+// let userInfo = {
+//   name: "Vasya",
+//   age: 30,
+//   showInfo() {
+//     console.log(`${this.name}`);
+//   },
+// };
+
+// let user = userInfo;
+// userInfo = null;
+// user.showInfo(); // Vasya
+
+// let userInfo = {
+//   name: "Вася",
+//   age: 30,
+// };
+
+// for (const key in userInfo) {
+//   const value = userInfo[key];
+//   console.log(value); // Вася, 30
+// }
+
+// let userInfo = {
+//   name: "Vasya",
+//   age: 30,
+//   address: {
+//     city: "Uzhhorod",
+//   },
+// };
+
+// for (const key in userInfo.address) {
+//   console.log(userInfo.address[key]); //Uzhhorod
+// }
+
+// const userInfo = {
+//   name: "Vasya",
+//   age: 30,
+//   "likes js": true,
+// };
+
+// console.log(userInfo["likes js"])
+
+// const userInfo = {};
+
+// userInfo.name = "Vasya";
+// userInfo.age = 30;
+
+// console.log(userInfo);
+
+// userInfo.name = "Lena"
+
+// console.log(userInfo)
+
+// delete userInfo.name
+
+// console.log(userInfo)
